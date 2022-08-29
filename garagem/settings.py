@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-npd@qk9uvqt7xpnzs@19v^-5s+^p-o*ba35_*!tmx9=(=48-s@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['garagem-paulo-3info1.herokuapp.com']
 
 
 # Application definition
